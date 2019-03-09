@@ -1,0 +1,25 @@
+{
+  "name": "ip-data-check",
+  "version": "1.0.1",
+  "description": "this for checking data of ip like region, city dll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "checker",
+    "check",
+    "data",
+    "ip",
+    "data",
+    "check",
+    "data",
+    "check"
+  ],
+  "author": "M1n007",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
